@@ -9,3 +9,5 @@ int main() {
     write(1, "\nHello world!", 13);
     return 0;
 }
+
+// Task 2
